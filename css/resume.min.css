@@ -88,6 +88,12 @@ a{
 
 #portpolio a {
     font-family: 'GmarketSans', sans-serif;
+    color: #5c5959;
+}
+
+#certification li {
+    color: #5c5959;
+;
 }
 /* // 수정 end */
 
