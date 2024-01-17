@@ -41,14 +41,13 @@ b {
 h1 {
     font-size: 6rem;
     line-height: 5.5rem
-    
 }
 
 h2 {
     font-size: 3.5rem
 }
 
-a{
+a {
     font-family: 'Open Sans', serif;
 }
 
@@ -74,12 +73,13 @@ a{
     font-family: 'GmarketSans', sans-serif;
 }
 
-#certification div ul li{
+#certification div ul li {
     padding-bottom: 10px;
 }
 
-#portpolio div ul li{
-    padding-bottom: 5px;
+#portpolio div ul li {
+    padding-bottom: 10px;
+    font-weight: 600;
 }
 
 .rounded-circle {
@@ -95,10 +95,25 @@ a{
     color: #5c5959;
 }
 
+#portpolio p {
+    margin: 0;
+}
+
+.sub_title {
+    padding-top: 20px;
+    padding-bottom: 5px;
+}
+
+.li_padding{
+    margin-bottom: 50px;
+}
+
+
 #certification li {
     color: #5c5959;
-;
+    ;
 }
+
 /* // 수정 end */
 
 .list-social-icons a {
